@@ -1,4 +1,4 @@
-document.getElementById("massage1").innerHTML="Hello world";
+document.getElementById("message1").innerHTML = "Hello world";
 
 let a = 5;
 var b = "hello";
